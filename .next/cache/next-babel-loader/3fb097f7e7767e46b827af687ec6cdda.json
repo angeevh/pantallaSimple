@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Login = () => {\n  return;\n};","map":{"version":3,"sources":["C:/xampp/htdocs/AppTolouse/pages/login.js"],"names":["Login"],"mappings":"AAAA,MAAMA,KAAK,GAAE,MAAK;AAChB;AACD,CAFD","sourcesContent":["const Login =() =>{\r\n  return\r\n}"]},"metadata":{},"sourceType":"script"}
