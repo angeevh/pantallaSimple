@@ -1,5 +1,3 @@
-import { loadGetInitialProps } from 'next/dist/next-server/lib/utils'
-import { getFontDefinitionFromManifest } from 'next/dist/next-server/server/font-utils'
 import Link from 'next/link'
 import Container from '../components/Container'
 
